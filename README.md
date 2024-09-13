@@ -19,3 +19,5 @@
 Your browser will open with the site launched as `http://localhost:8080/`. Any change to files within the directory will automatically cause a page refresh in the browser, so you can view changes live as you write them.
 
 Keep the browser open on the side as you hack away. 🙂
+
+To stop the process, in the terminal where `reload` was started, hit `Ctrl-C`.
