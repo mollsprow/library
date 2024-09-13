@@ -20,4 +20,4 @@ Your browser will open with the site launched as `http://localhost:8080/`. Any c
 
 Keep the browser open on the side as you hack away. 🙂
 
-To stop the process, in the terminal where `reload` was started, hit `Ctrl-C`.
+To stop the process, in the terminal where `reload` was started, hit `Ctrl-C` (you might have to do this twice).
